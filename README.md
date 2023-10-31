@@ -26,10 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](/screenshots/Screenshot%20(54).png)
-![](/screenshots/Screenshot%20(56).png)
-![](/screenshots/Screenshot%20(57).png)
-![](/screenshots/Screenshot%20(58).png)
+![](./assets/home/Screenshot (57).png)
+![](./assets/home/Screenshot (56).png)
 
 ### Links
 
