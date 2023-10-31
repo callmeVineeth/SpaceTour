@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/home/Screenshot (57).png)
+![](assets/home/Screenshot (57).png)
 ![](./assets/home/Screenshot (56).png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]( https://callmevineeth.github.io/SpaceTour/)
 
 
 ### Built with
