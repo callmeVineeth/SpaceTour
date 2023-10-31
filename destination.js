@@ -57,7 +57,7 @@
 
     //update old image with new image of the selected planet
     let oldImage=document.getElementById('planet');
-    let newImage='/starter-code/assets/destination/image-moon.png'
+    let newImage='./assets/destination/image-moon.png'
     oldImage.src = newImage;
   }
 
@@ -76,7 +76,7 @@
 
     //update old image with new image of the selected planet
     let oldImage=document.getElementById('planet');
-    let newImage='/starter-code/assets/destination/image-mars.png'
+    let newImage='./assets/destination/image-mars.png'
     oldImage.src = newImage;
     
   }
@@ -96,7 +96,7 @@
 
     //update old image with new image of the selected planet
     let oldImage=document.getElementById('planet');
-    let newImage='/starter-code/assets/destination/image-europa.png'
+    let newImage='./assets/destination/image-europa.png'
     oldImage.src = newImage;
   }
 
@@ -116,7 +116,7 @@
 
     //update old image with new image of the selected planet
     let oldImage=document.getElementById('planet');
-    let newImage='/starter-code/assets/destination/image-titan.webp'
+    let newImage='./assets/destination/image-titan.webp'
     oldImage.src = newImage;
   }
 
