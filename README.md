@@ -26,10 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot 1]
-(./assets/home/Screenshot (57).png)
-![Screenshot 2
-](./assets/home/Screenshot (56).png)
+![](./assets/home/Screenshot(57).png)
+![Screenshot 2](./assets/home/Screenshot(56).png)
+
 
 ### Links
 
