@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/home/Screenshot(57).png)
+![](./SpaceTour/assets/home/Screenshot(56).png)
 ![Screenshot 2](./assets/home/Screenshot(56).png)
 
 
