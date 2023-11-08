@@ -25,9 +25,10 @@ Users should be able to:
 - View each page and be able to toggle between the tabs to see new information
 
 ### Screenshot
+![Screenshot (54)](https://github.com/callmeVineeth/SpaceTour/assets/130293688/5cff0b3d-7f53-4479-938f-733d7e4db4c2)
+![Screenshot (56)](https://github.com/callmeVineeth/SpaceTour/assets/130293688/d59f7ee4-576e-4cfe-8b9e-880b49b53eb6)
+![Screenshot (58)](https://github.com/callmeVineeth/SpaceTour/assets/130293688/2b728e1e-ffef-45f1-b4b0-be5879ed7251)
 
-![](./SpaceTour/assets/home/Screenshot(56).png)
-![Screenshot 2](./assets/home/Screenshot(56).png)
 
 
 ### Links
